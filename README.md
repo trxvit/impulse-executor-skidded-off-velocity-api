@@ -7,5 +7,5 @@
 </p>
 
 <p align="center">
-  <img src="./image.jpg" alt="Tool Preview" width="500"/>
+  <img src="./image2.jpg" alt="Tool Preview" width="500"/>
 </p>
