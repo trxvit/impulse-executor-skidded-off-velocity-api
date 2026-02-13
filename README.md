@@ -9,3 +9,7 @@
 <p align="center">
   <img src="./image2.jpg" alt="Tool Preview" width="500"/>
 </p>
+
+<p align="center">
+  executor doesnt work because velo updatd and i dont wanna update the api
+</p>
